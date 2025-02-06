@@ -1,7 +1,7 @@
 
 ### Hi there! 👋 I'm Ahmad Al-Omari
 
-I am a **Professor of Bioinformatics with tenure. He is an ABET EAC/BMES Program Evaluator (PEV) and an Erasmus+ certified trainer, as well as a Senior Member of IEEE, EMBS, and CIS. PLOS ONE and ACISC Journals Editorial Board Member. In April 2020, he became the first Jordanian to be certified as an Nvidia Deep Learning Institute (DLI) Instructor and DLI University Ambassador. Dr. Al-Omari is also a judge for the QS Reimagine Education Awards**. My work involves bioinformatics, computational biology, and machine learning applications in biomedical sciences.
+**I am a Professor of Bioinformatics with tenure. He is an ABET EAC/BMES Program Evaluator (PEV) and an Erasmus+ certified trainer, as well as a Senior Member of IEEE, EMBS, and CIS. PLOS ONE and ACISC Journals Editorial Board Member. In April 2020, he became the first Jordanian to be certified as an Nvidia Deep Learning Institute (DLI) Instructor and DLI University Ambassador. Dr. Al-Omari is also a judge for the QS Reimagine Education Awards. My work involves bioinformatics, computational biology, and machine learning applications in biomedical sciences.**
 
 ---
 
