@@ -10,7 +10,7 @@ I am a **Professor of Bioinformatics with tenure. He is an ABET EAC/BMES Program
 - 👯 I’m looking to collaborate on machine learning in bioinformatics, biomedical data analysis, and academic research.
 - 🤔 I’m looking for help with large-scale biological data analysis and machine learning optimization.
 - 💬 Ask me about bioinformatics, machine learning, and academic accreditation processes.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-al-omari-219b6071/) | [Email](#) | [Twitter](#) (Replace with actual links)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-al-omari-219b6071/) | [Email](aomari@yu.edu.jo) | [Website](https://fmd.yu.edu.jo/facweb/HomePage.aspx?AcadURL=amomari) 
 - ⚡ Fun fact: I enjoy explaining complex topics like reinforcement learning in an intuitive way to students!
 
 ---
